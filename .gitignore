@@ -2,3 +2,4 @@ __pycache__/
 .venv/
 data/raw/*
 best_model.pth
+gradcam_output.jpg
